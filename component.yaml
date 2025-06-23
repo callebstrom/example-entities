@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: example-frontend
+  name: cbergstrom-example-frontend
   description: This is an example frontend component for Backstage.
   tags:
     - frontend
